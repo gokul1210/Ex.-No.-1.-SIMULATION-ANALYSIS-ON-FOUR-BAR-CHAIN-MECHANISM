@@ -54,9 +54,12 @@
 
 ## Output:
 
+![Screenshot 2025-05-21 141159](https://github.com/user-attachments/assets/07c7d6b3-289c-42aa-a22f-47d096c34870)
 
-### Name:
-### Register Number: 
+![Screenshot 2025-05-21 141220](https://github.com/user-attachments/assets/9ee7e268-a1c6-4422-a882-52de660ab09f)
+
+### Name:GOKUL S
+### Register Number: 212224230075
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
